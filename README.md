@@ -10,4 +10,4 @@ Worked on the title screen, end screen and overall formatting
 Piyush Varman (@PiyushVarman) :
 Worked on the rules, game window and the scorekeeping parts of the program, including formatting changes
 
-(The pair of us are noobs in this branch of Python Programming, hence, uggestions are appreciated!)
+(The pair of us are noobs in this branch of Python Programming, hence, suggestions are appreciated!)
