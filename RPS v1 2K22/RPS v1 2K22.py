@@ -219,7 +219,7 @@ def rules():
 and the game will take place as normal
 3. Each time you choose a option,
 your number of attempts will increase by one.
-4. Your delta score is the difference between your score and the AI score
+4. Your delta score is the difference between your score and the CPU score
 5. To win a game, your delta score MUST be positive.'''.center(1)
         rlabel=Label(rulebook,text=rl,font=('Calibri',18,"bold"),fg='white',bg="#000126")
         rlabel.place(x=500,y=210,anchor='center')
